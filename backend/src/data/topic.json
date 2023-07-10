@@ -1,0 +1,134 @@
+{
+
+
+
+    "Books": [
+
+        {
+            "Investment": [
+                {
+
+
+
+                    "id": 1,
+                    "name": "The Intelligent Investor - Benjamin Graham"
+
+
+
+                }, {
+
+
+
+                    "id": 2,
+                    "name": "Rich Dad, Poor Dad - Robert Kiyosaki"
+
+
+
+                }
+
+            ]
+        }, {
+
+
+
+            "Children": [
+
+                {
+
+                    "id": 1,
+                    "name": "Momo - Micheal Ende"
+
+
+
+                }, {
+
+
+
+                    "id": 2,
+                    "name": "Rich Dad, Poor Dad - Robert KiyosakiBFG - Roald Dahl"
+
+
+
+                }
+
+            ]
+        }
+    ],
+    "Football": [
+
+
+        {
+            "Premier League": [
+
+                {
+
+
+                    "id": 1,
+                    "name": "Liverpool"
+
+
+
+                }, {
+
+
+
+                    "id": 2,
+                    "name": "Man. UTD"
+
+
+
+                }, {
+
+
+
+                    "id": 3,
+                    "name": "Man. City"
+
+
+
+                }
+
+
+            ]
+        }, {
+
+
+
+            "Seria A": [
+
+
+                {
+
+                    "id": 1,
+                    "name": "Milan"
+
+
+
+                }, {
+
+
+
+                    "id": 2,
+                    "name": "Inter"
+
+
+
+                }, {
+
+
+
+                    "id": 3,
+                    "name": "Juventus"
+
+
+
+                }
+
+
+            ]
+        }
+    ]
+
+
+
+}

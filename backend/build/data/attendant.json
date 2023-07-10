@@ -1,0 +1,17 @@
+{
+    "attendants": [
+        {
+            "id": 1,
+            "name": "Anna",
+            "availability": "true"
+        }, {
+            "id": 2,
+            "name": "Rebecca",
+            "availability": "false"
+        }, {
+            "id": 3,
+            "name": "Adrian",
+            "availability": "true"
+        }
+    ]
+}
