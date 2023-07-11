@@ -1,0 +1,3 @@
+[submodule "front-chat"]
+	path = front-chat
+	url = git@github.com:israeldiassoares/chat.git
